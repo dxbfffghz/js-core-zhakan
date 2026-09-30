@@ -1,0 +1,16 @@
+{
+  "name": "js-core-zhakan",
+  "version": "1.0.0",
+  "description": "LAB 4 JavaScript core: functions, closures, classes, unit tests",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": ["javascript", "closures", "classes", "vitest"],
+  "author": "Akerke Zhakan",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^2.1.1"
+  }
+}
